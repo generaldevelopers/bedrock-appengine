@@ -26,6 +26,7 @@
           <file path="$MODULE_DIR$/src/main/java" />
           <file path="$MODULE_DIR$/src/main/resources" />
         </files-to-enhance>
+        <persistence-api>JPA2</persistence-api>
       </configuration>
     </facet>
   </component>
