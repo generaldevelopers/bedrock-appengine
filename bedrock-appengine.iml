@@ -151,5 +151,6 @@
     <orderEntry type="library" name="com.google.appengine:appengine-api-1.0-sdk:1.9.12" level="project" />
     <orderEntry type="library" name="com.google.appengine:appengine-jsr107cache:1.9.2" level="project" />
     <orderEntry type="library" name="com.google.appengine:appengine-endpoints-deps:1.9.21" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:13.0.1" level="project" />
   </component>
 </module>

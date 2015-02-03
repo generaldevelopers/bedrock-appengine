@@ -20,7 +20,7 @@
 	<groupId>com.gendevs.bedrock.appengine</groupId>
 	<artifactId>bedrock-appengine</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>Bedrock Core server framework customized for Appengine</name>
 	<url>http://maven.apache.org</url>
 
