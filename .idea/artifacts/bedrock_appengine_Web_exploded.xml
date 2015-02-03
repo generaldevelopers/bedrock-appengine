@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="bedrock-appengine:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/bedrock_appengine_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="bedrock-core/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="bedrock-core" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="com.google.appengine:appengine-api-labs:1.9.12" />
+          <element id="library" level="project" name="com.google.appengine:appengine-tools-sdk:1.9.12" />
+          <element id="library" level="project" name="com.google.appengine:appengine-endpoints-deps:1.9.2" />
+          <element id="library" level="project" name="com.google.appengine:appengine-api-1.0-sdk:1.9.12" />
+          <element id="library" level="project" name="com.google.appengine:appengine-jsr107cache:1.9.2" />
+          <element id="library" level="project" name="com.google.appengine:appengine-endpoints-deps:1.9.21" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
