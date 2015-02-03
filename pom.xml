@@ -18,10 +18,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.gendevs.bedrock.appengine</groupId>
-	<artifactId>bedrock-core</artifactId>
+	<artifactId>bedrock-appengine</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.2-SNAPSHOT</version>
-	<name>Bedrock Core server framework</name>
+	<name>Bedrock Core server framework customized for Appengine</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>

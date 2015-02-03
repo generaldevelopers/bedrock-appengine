@@ -31,7 +31,7 @@ public class AppConstants {
 
 	public static String API_KEY_SWAGGER = "yellowbuffalo";
 	
-	public static String BASE_URL = "http://bedrock-core.appspot.com";
+	public static String BASE_URL = "http://bedrock-appengine.appspot.com";
 	public static String DEFAULT_USER_IMAGE_URL = "/img/blank-profile.png";
 	public static String DEFAULT_WINDOWS_APP_IMAGE_URL = "/img/windows.png";
 	public static String DEFAULT_IOS_APP_IMAGE_URL = "/img/ios.png";

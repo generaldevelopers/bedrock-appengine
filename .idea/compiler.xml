@@ -23,12 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="Bedrock" />
-        <module name="bedrock-core" />
+        <module name="bedrock-appengine" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Bedrock" target="1.7" />
-      <module name="bedrock-core" target="1.7" />
+      <module name="bedrock-appengine" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
